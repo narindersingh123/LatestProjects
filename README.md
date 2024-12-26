@@ -1,3 +1,4 @@
+Analyzing Banking Trends: Data Analysis with SQL:
 In this project, I dived into analyzing customer transactions and uncovering insights using SQL queries on a cleaned banking dataset. I will explore customer behavior, transaction patterns, and their impact across different regions.
 The problem of analyzing banking trends is crucial because customer transactions generate vast amounts of data, which, if properly analyzed, can reveal important patterns and insights about customer behavior, spending habits, and regional economic activity. Banks and financial institutions rely on understanding these patterns to make informed, data-driven decisions that enhance their service offerings, optimize resources, and mitigate risks.
 
